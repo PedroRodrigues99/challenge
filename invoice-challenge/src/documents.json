@@ -1,0 +1,165 @@
+{
+    "invoices":[
+
+        {
+            "documentStatus": "Draft",
+            "documentType": "Invoice",
+            "documentNumber":"2018/11",
+            "clientName": "Zara",
+            "date": "2021-10-30",
+            "TotalWithoutVAT": "1200€"
+        },
+        {
+            "documentStatus": "Draft",
+            "documentType": "Invoice",
+            "documentNumber": "2019/12",
+            "clientName": "Pull&Bear",
+            "date": "2015-03-10",
+            "TotalWithoutVAT": "1300€"
+        },
+        {
+            "documentStatus": "Draft",
+            "documentType": "Invoice-Receipt",
+            "documentNumber":"2018/11" ,
+            "clientName": "Guess",
+            "date": "2020-05-15",
+            "TotalWithoutVAT": "1540€"
+        },
+        {
+            "documentStatus": "Paid",
+            "documentType": "Invoice-Receipt",
+            "documentNumber":"2019/12" ,
+            "clientName": "Gantt",
+            "date": "2018-12-03",
+            "TotalWithoutVAT": "1600€"
+        },
+        {
+            "documentStatus": "Paid",
+            "documentType": "Receipt",
+            "documentNumber":"2018/01" ,
+            "clientName": "Club21",
+            "date": "2014-03-20",
+            "TotalWithoutVAT": "2000€"
+        },
+        {
+            "documentStatus": "Paid",
+            "documentType": "Receipt",
+            "documentNumber": "2014/03",
+            "clientName": "Zara",
+            "date": "2014-03-20",
+            "TotalWithoutVAT": "3000€"
+        },
+        {
+            "documentStatus": "Final",
+            "documentType": "Invoice",
+            "documentNumber":"2017/02" ,
+            "clientName": "Massimo Dutti",
+            "date": "2014-03-20",
+            "TotalWithoutVAT": "4500€"
+        },
+        {
+            "documentStatus": "Final",
+            "documentType": "Invoice-Receipt",
+            "documentNumber": "2017/02",
+            "clientName": "H&M",
+            "date": "2014-03-20",
+            "TotalWithoutVAT": "2500€"
+        },
+        {
+            "documentStatus": "Final",
+            "documentType": "Receipt",
+            "documentNumber": "2016/03" ,
+            "clientName": "Primavera",
+            "date": "2014-03-20",
+            "TotalWithoutVAT": "3500€"
+        },
+        {
+            "documentStatus": "Final",
+            "documentType": "Invoice",
+            "documentNumber": "2016/03",
+            "clientName": "Minsait",
+            "date": "2014-03-20",
+            "TotalWithoutVAT": "4003€"
+        }, 
+        {
+            "documentStatus": "Final",
+            "documentType": "Invoice-Receipt",
+            "documentNumber":"2021/10",
+            "clientName": "Minsait",
+            "date": "2021-10-30",
+            "TotalWithoutVAT": "1950€"
+        },
+        {
+            "documentStatus": "Cancelled",
+            "documentType": "Receipt",
+            "documentNumber": "2015/03",
+            "clientName": "Bugatti",
+            "date": "2015-03-10",
+            "TotalWithoutVAT": "4000€"
+        },
+        {
+            "documentStatus": "Cancelled",
+            "documentType": "Invoice",
+            "documentNumber": "2020/05",
+            "clientName": "Mercedez",
+            "date": "2020-05-15",
+            "TotalWithoutVAT": "2500€"
+        },
+        {
+            "documentStatus": "Cancelled",
+            "documentType": "Invoice-Receipt",
+            "documentNumber":"2020/04",
+            "clientName": "Audi",
+            "date": "2018-12-03",
+            "TotalWithoutVAT": "5000€"
+        },
+        {
+            "documentStatus": "Draft",
+            "documentType": "Invoice",
+            "documentNumber": "2014/03",
+            "clientName": "Audi",
+            "date": "2014-03-20",
+            "TotalWithoutVAT": "6000€"
+        },
+        {
+            "documentStatus": "Paid",
+            "documentType": "Receipt",
+            "documentNumber":"2013/04" ,
+            "clientName": "Massimo Dutti",
+            "date": "2014-03-20",
+            "TotalWithoutVAT": "3500€"
+        },
+        {
+            "documentStatus": "Final",
+            "documentType": "Invoice-Receipt",
+            "documentNumber":"2019/02" ,
+            "clientName": "Audi",
+            "date": "2014-03-20",
+            "TotalWithoutVAT": "4500€"
+        },
+        {
+            "documentStatus": "Cancelled",
+            "documentType": "Receipt",
+            "documentNumber": "2021/03",
+            "clientName": "BMW",
+            "date": "2014-03-20",
+            "TotalWithoutVAT": "17000€"
+        },
+        {
+            "documentStatus": "Paid",
+            "documentType": "Invoice",
+            "documentNumber":"2022/01" ,
+            "clientName": "BMW",
+            "date": "2014-03-20",
+            "TotalWithoutVAT": "14500€"
+        },
+        {
+            "documentStatus": "Cancelled",
+            "documentType": "Invoice-Receipt",
+            "documentNumber": "2022/03",
+            "clientName": "Aston Martin",
+            "date": "2014-03-20",
+            "TotalWithoutVAT": "20000€"
+        }
+    ]
+}

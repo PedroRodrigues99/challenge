@@ -1,0 +1,71 @@
+.tableContainer{
+    border-color: grey;
+    border-width: 1px;
+    border-style: solid;
+    margin: 20px;
+    padding: 15px;
+}
+
+.tcell{
+    text-align: center;
+    font-size: small;
+    padding: 10px 35px !important; 
+}
+
+.results{
+    width: 100%;
+    display: inline-flex;
+    justify-content: end;
+    padding: 15px;
+    padding-top: 0;
+}
+
+.table{
+    overflow-y:scroll ;
+    display:block;
+    border: 2px solid; 
+    border-color: black; 
+    background-color: #e8e8e8; 
+    width: fit-content; 
+    border-collapse: collapse;
+ }
+
+ .table_wrapper{
+     display: flex; 
+     justify-content: start;
+     overflow-y: auto;
+     max-height: 500px; 
+ }
+
+ .table_wrapper thead th{
+    position: sticky;
+    top: 0; 
+    background-color: white;
+ }
+
+ .paginationBttns{
+     width: 80%;
+     height: 40px;
+     list-style: none;
+     display: flex;
+     justify-content: center;
+ }
+
+ .paginationBttns a {
+     padding: 10px;
+     margin: 8px;
+     border-radius: 5px;
+     border: 1px solid grey;
+     color: grey;
+     cursor: pointer;
+ }
+
+ .paginationBttns a:hover{
+     color: white;
+     background-color: grey;
+ }
+
+ .paginationActive a {
+     color: white;
+     background-color:grey;
+ }
